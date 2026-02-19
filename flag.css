@@ -1,0 +1,75 @@
+.main{
+    height: 300px;
+    width: 500px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#red{
+    height: 100px;
+    width: 500px;
+    background-color: #DC0000;
+
+}
+#white{
+     height: 100px;
+    width: 500px;
+}
+#black{
+      height: 100px;
+    width: 500px;
+    background-color: black;
+}
+.Palau{
+    display: inline-block;
+    border: 2px solid white;
+    height: 300px;
+    width: 500px;
+    background-color:#9CD5FF ;
+}
+.yellow{
+
+     width: 150px;
+    height: 150px;
+    background-color:#FFD400 ;
+    border-radius: 50%;
+     margin-top:80px ;
+     margin-left: 90px;
+
+}
+
+
+
+
+
+
+.turkey{
+    border: 2px solid white;
+    height: 300px;
+    width: 500px;
+    background-color: #DC0000; 
+    display: inline-block;
+    position: relative;
+
+}
+.one{
+   height: 100px;
+    width: 500px;
+   background-color: #DC0000;
+
+    
+}
+#white{
+   height: 100px;
+    width: 500px;
+   background-color: #faf6f6;
+
+    
+}
+#green{
+   height: 100px;
+    width: 500px;
+   background-color: #38cc24;
+
+    
+}
+
